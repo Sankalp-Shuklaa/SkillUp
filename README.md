@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
