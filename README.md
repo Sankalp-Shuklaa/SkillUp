@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0217-contains-duplicate) |
+| [0463-island-perimeter](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0231-power-of-two) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
