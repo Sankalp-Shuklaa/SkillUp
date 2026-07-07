@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -60,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
