@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0069-sqrtx) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
