@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Sankalp-Shuklaa/SkillUp/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
